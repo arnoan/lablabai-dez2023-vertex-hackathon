@@ -1,0 +1,11 @@
+langchain
+pydantic<2.0
+
+# LLM provider
+openai
+tiktoken # for embedding token count support
+
+# Supporting Tools
+jupyter
+python-dotenv
+
