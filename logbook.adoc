@@ -1,0 +1,12 @@
+.13:11
+- outlined rough action plan (Obsidian)
+- created dediacted folder
+- create Python venv
+- initialize git repo
+- initialize dependencies
+- clone template from langserve for basic API
+- run the langserve and explore locally
+
+- deploy API somewhere suitable (DO droplet, caprover..)
+
+.13:59
